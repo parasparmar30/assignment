@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="loading_projects">Loading projects ...</string>
+    <string name="running_time">Running time: %s</string>
+    <string name="release_date">Release date: %s</string>
+    <string name="add_number">Enter Amount in GBP</string>
+    <string name="add_comment">Comment</string>
+    <string name="Submit">Submit</string>
+    <string name="loading_project">Loading Project ...</string>
+    <string name="add_comment_error">Please add comment</string>
+    <string name="add_amount_error">Please add amount</string>
+    <string name="transaction">View Transaction</string>
+    <string name="add_transaction">Add Transaction</string>
+
+</resources>
